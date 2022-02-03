@@ -1,6 +1,7 @@
 # One-Time-Pads
 Five small programs that encrypt and decrypt information using a one-time pad-like system
 
+ [Requirements](https://github.com/powdrild/One-Time-Pads/blob/main/requirements.md)
 
 To run Onne-Time Pads Assignment:
 
