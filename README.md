@@ -3,7 +3,7 @@ Five small programs that encrypt and decrypt information using a one-time pad-li
 
  [Requirements](https://github.com/powdrild/One-Time-Pads/blob/main/requirements.md)
 
-To run Onne-Time Pads Assignment:
+To run One-Time Padst:
 
 1. Navigate to the directory where all the files are stored in the terminal.
 
